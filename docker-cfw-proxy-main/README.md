@@ -1,10 +1,7 @@
 # docker-cfw-proxy
-
-[![CI](https://github.com/shahradelahi/docker-cfw-proxy/actions/workflows/ci.yml/badge.svg)](https://github.com/shahradelahi/docker-cfw-proxy/actions/workflows/ci.yml)
 [![GPL-3.0 Licensed](https://img.shields.io/badge/License-GPL3.0-blue.svg?style=flat)](https://opensource.org/licenses/GPL-3.0)
-[![Code Size](https://img.shields.io/github/languages/code-size/shahradelahi/docker-cfw-proxy)](https://github.com/shahradelahi/docker-cfw-proxy)
-[![Open Issues](https://img.shields.io/github/issues/shahradelahi/docker-cfw-proxy)](https://github.com/shahradelahi/docker-cfw-proxy/issues)
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fshahradelahi%2Fdocker-cfw-proxy&countColor=%23263759&style=flat&labelStyle=upper)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fshahradelahi%2Fdocker-cfw-proxy)
+[![Open Issues](https://img.shields.io/github/issues/shahradelahi/docker-cfw-proxy)]
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fshahradelahi%2Fdocker-cfw-proxy&countColor=%23263759&style=flat&labelStyle=upper)]
 
 > A Lightweight docker image for connecting to CloudFlare WARP trough `Socks`, `HTTP` and `Shadowsocks` proxy protocols
 
@@ -158,4 +155,4 @@ Thanks again for your support, it is much appreciated! 🙏
 
 ## License
 
-[GPL-3.0](/LICENSE) © [Shahrad Elahi](https://github.com/shahradelahi)
+[GPL-3.0](/LICENSE) © [Harsha Kanaparthi]()
