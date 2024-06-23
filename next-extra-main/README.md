@@ -128,4 +128,4 @@ Thanks again for your support, it is much appreciated! 🙏
 
 ## License
 
-[MIT](/LICENSE) © [Shahrad Elahi](https://github.com/shahradelahi)
+[MIT](/LICENSE) © [Harsha Kanaparthi]()
